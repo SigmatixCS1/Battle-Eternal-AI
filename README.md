@@ -69,16 +69,8 @@ python generate_anything_v5.py -i
 ## 👥 Battle-Eternal Characters
 
 ### 🦸 Alexander - The Protagonist
-- **Appearance**: Blonde messy hair, blue eyes, glasses
-- **Outfit**: Red and gray hoodie
-- **Personality**: Confident, determined
-- **Powers**: Magical card summoning
 
 ### 🧙 DeMarcus - The Technomancer  
-- **Appearance**: Dark-skinned, bald, intense eyes
-- **Style**: Cyberpunk-fantasy fusion
-- **Personality**: Arrogant, brilliant
-- **Powers**: Technology-magic fusion
 
 *More characters coming soon!*
 
@@ -183,8 +175,6 @@ python generate_anything_v5.py -p "prompt" --width 256 --height 256
 Ensure Anything V5 model is in `models/checkpoints/anything-v5/`
 
 **Slow Generation:**
-- CPU generation takes 5-10 minutes per image
-- GPU highly recommended for faster generation
 
 ## 📜 License
 
@@ -192,18 +182,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Anything V5** model creators for the amazing anime generation capability
-- **ComfyUI** team for the powerful workflow system
-- **Diffusers** library for Stable Diffusion integration
-- **Battle-Eternal** community for inspiration and feedback
 
 ## 📞 Support
 
-- 📖 [Documentation](docs/)
-- 🐛 [Issue Tracker](https://github.com/yourusername/battle-eternal-ai/issues)
-- 💬 [Discussions](https://github.com/yourusername/battle-eternal-ai/discussions)
 
----
 
 **Made with ❤️ for the Battle-Eternal light novel project**
 
